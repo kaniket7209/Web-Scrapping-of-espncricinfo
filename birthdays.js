@@ -1,6 +1,5 @@
 const request = require('request');
 const cheerio = require('cheerio');
-const { clear } = require('console');
 const chalk = require('chalk');
 // console.log("before");
 let url = "https://www.espncricinfo.com/series/ipl-2020-21-1210595/chennai-super-kings-vs-kings-xi-punjab-53rd-match-1216506/full-scorecard";
